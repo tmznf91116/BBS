@@ -10,5 +10,5 @@
  
   <img class="noborder" id="logo" src="mollahalf.png"/></div>
 
-<div id="main_auth" class="box"><jsp:include page="loginForm.jsp"/></div>
+<div id="main_auth" class="box"><jsp:include page="/loginForm.jsp"/></div>
 <!--  div id="main_auth =에 레지스터 jsp id 로 연결 계속 돌아간다-->
